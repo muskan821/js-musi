@@ -1,2 +1,3 @@
 # js-musi
-code for java script
+This is my first repo
+
